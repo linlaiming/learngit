@@ -4,3 +4,5 @@ git is free software.
 
 creating a new branch is quick and simple.
 
+test:--no-ff  git merge
+
